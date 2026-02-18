@@ -1,3 +1,6 @@
+#include <iostream>
+#include "Punt.h"
+using namespace std;
 int main() {
     Punt p1; 
     p1.m_x = 3.0; p1.m_y = 4.0; // 示例初始化
