@@ -23,7 +23,7 @@ Punt Punt::suma(Punt &p) {
     Punt resultat; // 创建一个临时对象存放结果 
     
     // 执行坐标相加
-    resultat.m_x = m_x + p.m_x; [cite: 237]
-    resultat.m_y = m_y + p.m_y; [cite: 237]
+    resultat.m_x = m_x + p.m_x; 
+    resultat.m_y = m_y + p.m_y; 
     
     return resultat; // 返回计算后的点

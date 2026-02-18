@@ -20,7 +20,7 @@ int main() {
     p2.mostra(); 
     cout << endl;
 
-    cout << "Distancia: " << d << endl; [cite: 200]
+    cout << "Distancia: " << d << endl; 
 
     return 0;
 }
